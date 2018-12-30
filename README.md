@@ -7,4 +7,9 @@
 
 `src/`下为各个报纸的下载脚本。
 
+| 脚本名 | 报纸名 |
+|-|-|
+| `download-yzwb-pdf.py` | 扬子晚报 |
+| `download-xhrb-pdf.py` | 新华日报 |
+
 Windows可执行程序见release。
